@@ -1,7 +1,11 @@
 # SCM_PredictiveModelling
 Supply Chain Predictive Modeling Web App using Streamlit. Features LSTM demand forecasting, inventory optimization, customer segmentation, and statistical testing. Built with TensorFlow/Keras, Pandas, NumPy, Scikit‑learn, Plotly, and Statsmodels for interactive, data‑driven SCM insights.
 
-The SupplyChainManagement Modelling project is organized for streamlined development and deployment. The .streamlit directory contains configuration files and a data folder, which holds resources such as datagenerator.ipynb and the main dataset ecommerce_supply_chain.csv. The core application resides in the streamlit_app folder, with a pages subdirectory that separates functionality into four main modules: 01_1️⃣forcastdemand.py (forecasting demand with LSTM), 02_2️⃣inventoryoptimisation.py (inventory optimization), 03_3️⃣customer_segmentation.py (customer and product segmentation), and 04_4️⃣statisticaltests.py (statistical hypothesis testing). Supporting files such as the project license, README, and requirements.txt for dependencies are located in the root directory, making the project easy to navigate and maintain.
+The SupplyChainManagement Modelling project is organized for streamlined development and deployment. The .streamlit directory contains configuration files and a data folder, which holds resources such as datagenerator.ipynb and the main dataset ecommerce_supply_chain.csv. The core application resides in the streamlit_app folder, with a pages subdirectory that separates functionality into four main modules: 
+1️ forcastdemand.py (forecasting demand with LSTM)
+2 inventoryoptimisation.py (inventory optimization) 
+3 customer_segmentation.py (customer and product segmentation)
+4 statisticaltests.py (statistical hypothesis testing)
 
 1️⃣ Forecast Future Demand (LSTM Model)
 What it does:
